@@ -1,0 +1,16 @@
+JavaScript Koans
+================
+JavaScript Koans is a project by [David Laing](https://github.com/mrdavidlaing/javascript-koans) that tackles and teaches the basics of 
+JavaScript by having the user fix errors. It introduces problem solving using JavaScript syntax.
+
+
+## Progress:
+    
+    1. AboutExpects.js :santa:
+    2. AboutArrays.js :santa:
+    3. AboutFunctions.js :santa:
+    4. AboutObjects.js :santa:
+
+
+
+For Hack Reactor / Cohort 24 / 02.2015
