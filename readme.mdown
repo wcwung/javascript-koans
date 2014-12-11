@@ -4,12 +4,17 @@ JavaScript Koans is a project by [David Laing](https://github.com/mrdavidlaing/j
 JavaScript by having the user fix errors. It introduces problem solving using JavaScript syntax.
 
 
-## Progress:
+## :tada: Progress :tada:
     
-    1. AboutExpects.js :santa:
-    2. AboutArrays.js :santa:
-    3. AboutFunctions.js :santa:
-    4. AboutObjects.js :santa:
+    1. AboutExpects.js – Completed
+    2. AboutArrays.js – Completed
+    3. AboutFunctions.js – Completed
+    4. AboutObjects.js – Completed
+    5. AboutMutability.js
+    6. AboutInheritance.js
+    7. AboutHigherOrderFunctions.js
+    8. AboutApplyingWhatWeHaveLearnt.js
+
 
 
 
