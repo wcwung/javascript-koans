@@ -10,9 +10,9 @@ JavaScript by having the user fix errors. It introduces problem solving using Ja
     2. AboutArrays.js – Completed
     3. AboutFunctions.js – Completed
     4. AboutObjects.js – Completed
-    5. AboutMutability.js
-    6. AboutInheritance.js
-    7. AboutHigherOrderFunctions.js
+    5. AboutMutability.js – Completed    
+    6. AboutHigherOrderFunctions.js – Completed
+    7. AboutInheritance.js – Completed
     8. AboutApplyingWhatWeHaveLearnt.js
 
 
