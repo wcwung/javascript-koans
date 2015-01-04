@@ -13,7 +13,7 @@ JavaScript by having the user fix errors. It introduces problem solving using Ja
     5. AboutMutability.js – Completed    
     6. AboutHigherOrderFunctions.js – Completed
     7. AboutInheritance.js – Completed
-    8. AboutApplyingWhatWeHaveLearnt.js
+    8. AboutApplyingWhatWeHaveLearnt.js – Completed (excluding extra credit)
 
 
 
